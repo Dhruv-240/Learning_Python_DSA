@@ -23,5 +23,6 @@ while True:
             guesses = 0
         else:    
          break
-      
-    
+
+    # Now will this show 
+print("thanks for playing")
